@@ -1,4 +1,4 @@
 # AndroidKotlinCalculator
 
-//TODO: clear button functionality
-//TODO: logical operatins
+[ ]TODO: clear button functionality
+[ ]TODO: logical operatins
