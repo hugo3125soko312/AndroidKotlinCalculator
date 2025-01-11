@@ -1,6 +1,6 @@
 # AndroidKotlinCalculator
 
-### WIP
+## WIP
 This is a simple android kotlin caluclator
 - [ ] TODO: DEL button
 - [ ] TODO: DEL button design
